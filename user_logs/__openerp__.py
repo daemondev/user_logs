@@ -34,6 +34,7 @@
     'depends' : ['base'],
     'data': [
              'security/log_group_view.xml',
+             'security/ir.model.access.csv',
              'views/users_view.xml',
              'views/user_logs_view.xml',
              'views/ir_config_data.xml',
